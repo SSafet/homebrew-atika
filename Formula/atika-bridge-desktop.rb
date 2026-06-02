@@ -12,8 +12,8 @@
 class AtikaBridgeDesktop < Formula
   desc "Local daemon that connects this machine to Atika"
   homepage "https://atika.ai"
-  url "https://registry.npmjs.org/@atika-ai/bridge-desktop/-/bridge-desktop-0.1.3.tgz"
-  sha256 "025ec68c17289eca6a6b3c6a6d0f14a5ca090bb783b82ac0b1bb2e87b4780878"
+  url "https://registry.npmjs.org/@atika-ai/bridge-desktop/-/bridge-desktop-0.1.4.tgz"
+  sha256 "fc23e39976729267b5beeea11beef8accfed721f14e1605752ae3027eb56d0e3"
   license "Apache-2.0"
 
   depends_on "node@22"
